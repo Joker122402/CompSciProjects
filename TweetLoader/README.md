@@ -24,3 +24,5 @@ To run once compiled:
 ```
 java main
 ```
+
+output.png is an image of the program executing successfully
