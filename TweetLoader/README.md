@@ -10,3 +10,17 @@ This class is responsible for parsing the data file to extract the tweets and st
 
 #### main.java
 The entrypoint for the program. Loads the tweets into both an Array and an ArrayList. Implements printHead and printTail for each type of array.
+
+#### data.csv
+This is the data file that the program was tested with
+
+
+To compile:
+```
+javac main.java Tweet.java TweetLoader.java
+```
+
+To run once compiled:
+```
+java main
+```
