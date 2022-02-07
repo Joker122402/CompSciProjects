@@ -26,3 +26,4 @@ java main
 ```
 
 output.png is an image of the program executing successfully
+https://github.com/Joker122402/CompSciProjects/blob/5be7955cdc4e1354e2f0d3c429bb7834dbe69693/TweetLoader/output.png
